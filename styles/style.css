@@ -98,10 +98,13 @@ hr{
     padding-right: 17px;
     padding-bottom: 21px;
 }
+.course-title{
+    margin-bottom: 7px;
+}
 .course-author{
     font-size: 15px;
     color: #ED6B4F;
-    font-size: 20px;
+    margin-bottom: 19px;
 }
 .course-info{
     display: flex;
