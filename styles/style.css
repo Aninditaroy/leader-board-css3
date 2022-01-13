@@ -159,6 +159,9 @@ hr{
     background-color: #FFE4E8;;
     border-radius: 14.6913px;
 }
+.course-info span{
+    color: #A2A2A2;
+}
 .fa-star{
     font-size: 12px;
 }
@@ -166,7 +169,7 @@ hr{
     color: #FFC014;
 }
 .fa-star.empty{
-    color: #AEAEAE; 
+    color: #A2A2A2; 
 }
 .far.fa-clock{
     padding-left: 5px;
