@@ -65,6 +65,7 @@ hr{
 /* top players style */
 .top-players{
     margin-bottom: 30px;
+    margin-top: 31px;
 }
 .section-title{
     color: #562EFF;
@@ -165,8 +166,7 @@ hr{
     color: #FFC014;
 }
 .fa-star.empty{
-    color: #AEAEAE;
-    
+    color: #AEAEAE; 
 }
 .far.fa-clock{
     padding-left: 5px;
@@ -183,7 +183,10 @@ hr{
     }
     .player, .blog{
         flex-direction: column;
-    }  
+    } 
+    .nav-icon, .nav-ul{
+        flex-wrap: wrap;
+    } 
 }
 /* tablet devices */
 @media only screen and (min-width: 689px) and (max-width: 992px) {
